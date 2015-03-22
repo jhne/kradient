@@ -7,3 +7,5 @@ Kradient contains a set of CSS classes with different gradient backgrounds. Seve
 
 #Demo
 Is available at [jhne.me/kradient/](https://jhne.me/kradient/)
+
+Inspired by [uigradients.com](http://uigradients.com/#).
