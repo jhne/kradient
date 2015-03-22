@@ -52,12 +52,6 @@
     background: linear-gradient(to right, #7474BF 10%, #348AC7 90%);
 }
 
-.krDarkBlueRight {
-    background: -webkit-linear-gradient(left, #4A569D 10%, #182848 90%);
-    background: -o-linear-gradient(left, #4A569D 10%, #182848 90%);
-    background: linear-gradient(to right, #4A569D 10%, #182848 90%);
-}
-
 .krDarkSlateBlueRight {
     background: -webkit-linear-gradient(left, #614385 10%, #516395 90%);
     background: -o-linear-gradient(left, #614385 10%, #516395 90%);
@@ -154,12 +148,6 @@
     background: linear-gradient(to bottom, #7474BF 10%, #348AC7 90%);
 }
 
-.krDarkBlueDown {
-    background: -webkit-linear-gradient(top, #4A569D 10%, #182848 90%);
-    background: -o-linear-gradient(top, #4A569D 10%, #182848 90%);
-    background: linear-gradient(to bottom, #4A569D 10%, #182848 90%);
-}
-
 .krDarkSlateBlueDown {
     background: -webkit-linear-gradient(top, #614385 10%, #516395 90%);
     background: -o-linear-gradient(top, #614385 10%, #516395 90%);
@@ -254,12 +242,6 @@
     background: -webkit-linear-gradient(45deg, #7474BF 10%, #348AC7 90%);
     background: -o-linear-gradient(45deg, #7474BF 10%, #348AC7 90%);
     background: linear-gradient(left bottom, right top, #7474BF 10%, #348AC7 90%);
-}
-
-.krDarkBlueDiagonal {
-    background: -webkit-linear-gradient(45deg, #4A569D 10%, #182848 90%);
-    background: -o-linear-gradient(45deg, #4A569D 10%, #182848 90%);
-    background: linear-gradient(left bottom, right top, #4A569D 10%, #182848 90%);
 }
 
 .krDarkSlateBlueDiagonal {
